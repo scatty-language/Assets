@@ -3,7 +3,8 @@
     <polygon points="122,48 148,165 228,118" fill="#0E1726" stroke="#0E1726" stroke-width="44" stroke-linejoin="round" stroke-linecap="round" />
     <polygon points="390,48 284,118 360,165" fill="#0E1726" stroke="#0E1726" stroke-width="44" stroke-linejoin="round" stroke-linecap="round" />
     <path d="M 336,178 C 336,105 168,105 168,182 C 168,252 344,242 344,315 C 344,388 172,388 172,322" fill="none" stroke="#0E1726" stroke-width="132" stroke-linecap="round" stroke-linejoin="round" />
-    <path d="M 230,390 L 230,432 A 26,26 0 0 0 282,432 L 282,390 Z" fill="#0E1726" stroke="#0E1726" stroke-width="32" stroke-linejoin="round" stroke-linecap="round" />
+
+    <path d="M 212,385 L 212,404 C 212,434 230,448 256,448 C 282,448 300,434 300,404 L 300,385 Z" fill="#0E1726" stroke="#0E1726" stroke-width="32" stroke-linejoin="round" stroke-linecap="round" />
   </g>
 
   <g id="inner-fill">
@@ -15,10 +16,10 @@
 
     <path d="M 336,178 C 336,105 168,105 168,182 C 168,252 344,242 344,315 C 344,388 172,388 172,322" fill="none" stroke="#CED6E0" stroke-width="88" stroke-linecap="round" stroke-linejoin="round" />
 
-    <path d="M 230,390 L 230,432 A 26,26 0 0 0 282,432 L 282,390 Q 269,393 256,380 Q 243,393 230,390 Z" fill="#FF66B2" stroke="none" />
+    <path d="M 212,385 L 212,404 C 212,434 230,448 256,448 C 282,448 300,434 300,404 L 300,385 Q 282,396 256,380 Q 230,396 212,385 Z" fill="#FF66B2" stroke="none" />
 
-    <path d="M 230,390 L 230,432 A 26,26 0 0 0 282,432 L 282,390" fill="none" stroke="#0E1726" stroke-width="16" stroke-linejoin="round" stroke-linecap="round" />
+    <path d="M 212,385 L 212,404 C 212,434 230,448 256,448 C 282,448 300,434 300,404 L 300,385" fill="none" stroke="#0E1726" stroke-width="16" stroke-linejoin="round" stroke-linecap="butt" />
 
-    <path d="M 210,378 Q 233,398 256,380 Q 279,398 302,378" fill="none" stroke="#0E1726" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M 196,376 Q 226,398 256,380 Q 286,398 316,376" fill="none" stroke="#0E1726" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" />
   </g>
 </svg>
