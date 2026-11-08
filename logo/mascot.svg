@@ -1,54 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
-  <ellipse cx="235" cy="434" rx="105" ry="12" fill="#000000" fill-opacity="0.25" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <ellipse cx="241" cy="456" rx="105" ry="12" fill="#000000" fill-opacity="0.25" />
 
-  <path d="M 185 412 C 115 405, 95 325, 138 255 C 148 238, 165 250, 156 268 C 128 322, 142 382, 192 390 Z"
+  <path d="M 191 434 C 121 427, 101 347, 144 277 C 154 260, 171 272, 162 290 C 134 344, 148 404, 198 412 Z"
         fill="#94A3B8" stroke="#0F172A" stroke-width="9" stroke-linejoin="round" />
 
-  <path d="M 282 250 L 296 410 C 298 422, 274 422, 274 410 L 260 260 Z"
+  <path d="M 288 272 L 302 432 C 304 444, 280 444, 280 432 L 266 282 Z"
         fill="#94A3B8" stroke="#0F172A" stroke-width="9" stroke-linejoin="round" />
 
-  <path d="M 270 142
-           C 315 185, 315 245, 262 315
-           C 248 345, 245 375, 242 402
-           L 250 412 C 256 422, 230 424, 218 422 L 182 418
-           C 158 412, 152 345, 195 282
-           C 232 228, 238 182, 230 142 Z"
+  <path d="M 276 164
+           C 321 207, 321 267, 268 337
+           C 254 367, 251 397, 248 424
+           L 256 434 C 262 444, 236 446, 224 444 L 188 440
+           C 164 434, 158 367, 201 304
+           C 238 250, 244 204, 236 164 Z"
         fill="#CBD5E1" stroke="#0F172A" stroke-width="9" stroke-linejoin="round" />
 
-  <path d="M 218 335 C 238 355, 238 388, 222 405" fill="none" stroke="#0F172A" stroke-width="8" stroke-linecap="round" />
+  <path d="M 224 357 C 244 377, 244 410, 228 427" fill="none" stroke="#0F172A" stroke-width="8" stroke-linecap="round" />
 
-  <path d="M 252 255 L 268 414 C 270 426, 244 426, 244 414 L 232 275"
+  <path d="M 258 277 L 274 436 C 276 448, 250 448, 250 436 L 238 297"
         fill="#CBD5E1" stroke="#0F172A" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" />
 
-  <path d="M 202 92
-           L 180 16
-           L 235 70
-           Q 250 68, 265 70
-           L 320 16
-           L 298 92
-           L 315 122
-           L 259 166
-           Q 250 173, 241 166
-           L 185 122 Z"
+  <path d="M 208 114
+           L 186 38
+           L 241 92
+           Q 256 90, 271 92
+           L 326 38
+           L 304 114
+           L 321 144
+           L 265 188
+           Q 256 195, 247 188
+           L 191 144 Z"
         fill="#CBD5E1" stroke="#0F172A" stroke-width="9" stroke-linejoin="round" />
 
-  <polygon points="209,84 198,46 225,73" fill="#F472B6" stroke="#F472B6" stroke-width="3" stroke-linejoin="round" />
-  <polygon points="291,84 302,46 275,73" fill="#F472B6" stroke="#F472B6" stroke-width="3" stroke-linejoin="round" />
+  <polygon points="215,106 204,68 231,95" fill="#F472B6" stroke="#F472B6" stroke-width="3" stroke-linejoin="round" />
+  <polygon points="297,106 308,68 281,95" fill="#F472B6" stroke="#F472B6" stroke-width="3" stroke-linejoin="round" />
 
-  <circle cx="217" cy="112" r="20" fill="#38BDF8" stroke="#0F172A" stroke-width="7" />
-  <circle cx="211" cy="109" r="6.5" fill="#0F172A" />
-  <circle cx="219" cy="103" r="3" fill="#FFFFFF" />
+  <circle cx="223" cy="134" r="20" fill="#38BDF8" stroke="#0F172A" stroke-width="7" />
+  <circle cx="217" cy="131" r="6.5" fill="#0F172A" />
+  <circle cx="225" cy="125" r="3" fill="#FFFFFF" />
 
-  <circle cx="283" cy="112" r="20" fill="#38BDF8" stroke="#0F172A" stroke-width="7" />
-  <circle cx="289" cy="115" r="6.5" fill="#0F172A" />
-  <circle cx="292" cy="107" r="3" fill="#FFFFFF" />
+  <circle cx="289" cy="134" r="20" fill="#38BDF8" stroke="#0F172A" stroke-width="7" />
+  <circle cx="295" cy="137" r="6.5" fill="#0F172A" />
+  <circle cx="298" cy="129" r="3" fill="#FFFFFF" />
 
-  <path d="M 241 149 L 241 159 C 241 168, 259 168, 259 159 L 259 149 L 250 144 Z"
+  <path d="M 247 171 L 247 181 C 247 190, 265 190, 265 181 L 265 171 L 256 166 Z"
         fill="#F472B6" />
-  <path d="M 241 149 L 241 159 C 241 168, 259 168, 259 159 L 259 149"
+  <path d="M 247 171 L 247 181 C 247 190, 265 190, 265 181 L 265 171"
         fill="none" stroke="#0F172A" stroke-width="5.5" stroke-linecap="butt" stroke-linejoin="round" />
 
-  <path d="M 232 146 Q 241 152, 250 144 Q 259 152, 268 146"
+  <path d="M 238 168 Q 247 174, 256 166 Q 265 174, 274 168"
         fill="none" stroke="#0F172A" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round" />
-  <polygon points="243,131 257,131 250,140" fill="#F472B6" stroke="#F472B6" stroke-width="1.5" stroke-linejoin="round" />
+  <polygon points="249,153 263,153 256,162" fill="#F472B6" stroke="#F472B6" stroke-width="1.5" stroke-linejoin="round" />
 </svg>
